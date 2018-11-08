@@ -1,0 +1,10 @@
+tmp/**
+build/**
+node_modules/**
+contracts/**
+/build-scripts/
+/config/
+/*.js
+/build/
+/config/
+/*.js
