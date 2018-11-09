@@ -17,3 +17,8 @@ Next, we execute the following command (perhaps on another terminal):
 ```
 npm run dev
 ```
+
+## Built With
+* [vue.js](https://vuejs.org/v2/guide/) - Vue documentation guide
+* [Firebase](https://firebase.google.com/docs/) - Firebase Documentation
+* [Web3](https://web3js.readthedocs.io/en/1.0/) - Collection of libraries which allow you to interact with a local or remote ethereum node, using a HTTP or IPC connection
