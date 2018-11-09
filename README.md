@@ -18,7 +18,7 @@ Next, we execute the following command (perhaps on another terminal):
 npm run dev
 ```
 
-The smart contract address use for this code: * 0x093a2ace49019c91bbf7decb50466a7ef0a24b66
+The smart contract address use for this code: 0x093a2ace49019c91bbf7decb50466a7ef0a24b66
 
 ## Built With
 * [vue.js](https://vuejs.org/v2/guide/) - Vue documentation guide
