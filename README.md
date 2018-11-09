@@ -22,3 +22,6 @@ npm run dev
 * [vue.js](https://vuejs.org/v2/guide/) - Vue documentation guide
 * [Firebase](https://firebase.google.com/docs/) - Firebase Documentation
 * [Web3](https://web3js.readthedocs.io/en/1.0/) - Collection of libraries which allow you to interact with a local or remote ethereum node, using a HTTP or IPC connection
+
+## Sources:
+* [Tutorial](https://medium.com/@sebinatx/building-an-ethereum-firebase-user-profile-dapp-part-1-de57d808a3e6)
