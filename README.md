@@ -24,4 +24,4 @@ npm run dev
 * [Web3](https://web3js.readthedocs.io/en/1.0/) - Collection of libraries which allow you to interact with a local or remote ethereum node, using a HTTP or IPC connection
 
 ## Sources:
-* [Tutorial](https://medium.com/@sebinatx/building-an-ethereum-firebase-user-profile-dapp-part-1-de57d808a3e6)
+* If you want to learn how to do this dapp, please click the link. [Tutorial](https://medium.com/@sebinatx/building-an-ethereum-firebase-user-profile-dapp-part-1-de57d808a3e6)
