@@ -1,10 +1,10 @@
 # vue-firebase-web3
 このdappにFirebaseを統合する方法を学んで、FirebaseのAuthentication特徴を使いましたそして、ERC223を使いました。
 
-##Getting Started
+## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-###Prerequisites
+### Prerequisites
 You will need Firebase to run project locally
 
 Install Firebase using:
